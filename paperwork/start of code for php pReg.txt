@@ -1,0 +1,42 @@
+<?php
+
+$servername="localhost";
+$username="root";
+$password="";
+$database="pupil";
+
+$link=mysql_connect ($servername, $username, $password);
+
+if(! $link)
+	{
+	die('Connection Failed'.mysql_error());
+	}
+	
+mysql_select_db($database, $link);
+
+$firstName = $_POST['firstName'];
+$Surname = $_POST['Surname'];
+$dateOfBirth = $_POST['DateOfBirth'];
+$teacherName = $_POST['teacherName'];
+$Username = $_POST['Username'];
+$Password = $_POST['Password'];
+$ConfirmPassword = $_POST['ConfirmPassword'];
+
+$query = "INSERT INTO member (firstName,Surname,teacherName,Username,Password,ConfirmPassword)
+VALUES ('$firstName', '$Surname', '$dateOfBirth', "$teacherName', "$Username', "$Password", "$ConfirmPassword")
+
+$data=mysql_query($query) or die (mysql_error());
+
+if($data)
+	{
+	echo "Your registration has been seccessful, to login "<a href="completeSurvey.html">Click Here</a>;
+	}
+
+mysql_close($link);
+
+?>
+
+
+
+
+

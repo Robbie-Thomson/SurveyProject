@@ -1,0 +1,72 @@
+﻿<html>
+
+<head>
+<title>Clydeview Academy: Graphic Communication</title>
+<link rel="stylesheet" type="text/css" href="projectStyleSheet.css">
+<script type="text/javascript" src="clientValPupilReg.js"></script>
+</head>
+<body>
+<ul>
+  <li><a href="homePage.html">Home / Information</a></li>
+  <li><a href="pupilReg.html">Register as Pupil</a></li>
+  <li><a href="completeSurvey.html">Complete the Survey(Pupil Login)</a></li>
+  <li><a href="viewSurvey.html">View Survey Results(Teacher Login)</a></li>
+</ul>
+
+<br><br>
+
+<h1>Clydeview Academy: Graphic Communication</h1>
+
+<h2>This is where you can register as a PUPIL studying Graphics.</h2>
+<!--method="POST" action="pupilReg.php"-->
+<h3>
+<form name="Register" onsubmit="return validatePupilRegOnSubmit(this)" method="POST" action="serverValPupilReg.php">
+<table>
+<tr>
+	<td>First name:<br></td>
+	<td><input type="text" name="Fname"><br></td>
+</tr>
+<tr>
+	<td>Last name:<br></td>
+	<td><input type="text" name="Lname"><br></td>
+</tr>
+<tr>
+	<td>Date of Birth:<br></td>
+	<td><input type="date" name="DofB"></td>
+</tr>
+<tr>
+	<td>Select your teacher:<br></td>
+	<td><select list="Teacher">
+	<option value="" disabled selected>Please Select</option>
+	<option value="Mr Major">Mr Major</option>
+	<option value="Mr McDonald">Mr McDonald</option>
+	<option value="Mr Hamilton">Mr Hamilton</option>
+	<option value="Mr McQuilken">Mr McQuilken</option>
+	<option value="Mr Bolster">Mr Bolster</option>
+	</select><br>
+	</td>
+</tr>
+<tr>
+	<td>Username:<br></td>
+	<td><input type="text" name="UserN" size="40"><br></td>
+</tr>
+<tr>	
+	<td>Password:<br></td>
+	<td><input type="password" name="pass" size="40"><br></td>
+</tr>
+<tr>	
+	<td>Confirm Password:<br></td>
+	<td><input type="password" name="confirm" size="40"><br></td>
+</tr>
+<br>
+<tr>
+	<td><input name="Submit" value="Send" type="submit"></td>
+</tr>
+</table>
+</form> 
+</h3>
+
+
+</body>
+
+</html>

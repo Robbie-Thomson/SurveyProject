@@ -1,0 +1,1 @@
+<?php $notification = array('check_date'=>'20161208','date'=>'20161112','status'=>'0','link'=>'http://warehouse.easyphp.org/index.php?s=not1112','message'=>'PHP Updates : PHP 7.1.0 RC6 x64/x86 + 7.0.13 x64/x86 + 5.6.28 x86'); ?>

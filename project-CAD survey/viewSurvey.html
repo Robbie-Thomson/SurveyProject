@@ -1,0 +1,43 @@
+﻿<html>
+
+<head>
+<title>Clydeview Academy: Graphic Communication</title>
+<link rel="stylesheet" type="text/css" href="projectStyleSheet.css">
+</head>
+
+<body>
+<ul>
+  <li><a href="homePage.html">Home / Information</a></li>
+  <li><a href="pupilReg.html">Register as Pupil</a></li>
+  <li><a href="completeSurvey.html">Complete the Survey(Pupil Login)</a></li>
+  <li><a href="viewSurvey.html">View Survey Results(Teacher Login)</a></li>
+</ul>
+
+<br><br>
+
+<h1>Clydeview Academy: Graphic Communication</h1> 
+
+<h2>This is where you login as a teacher and review the results of the graphics survey.</h2>
+<h3>
+<form method="POST" action="teacherLogin.php">
+
+Password: <br>
+<input type="password" name="pass" size="40"><br>
+<br>
+<select list="Teachers">
+<option value="" disabled selected>Please Select</option>
+<option value="Mr Major">Mr Major</option>
+<option value="Mr McDonald">Mr McDonald</option>
+<option value="Mr Hamilton">Mr Hamilton</option>
+<option value="Mr McQuilken">Mr McQuilken</option>
+<option value="Mr Bolster">Mr Bolster</option>
+</select>
+
+<input id="button" type="submit" name="submit" value="LOGIN"> </form> 
+</h3>
+
+
+
+</body>
+
+</html>

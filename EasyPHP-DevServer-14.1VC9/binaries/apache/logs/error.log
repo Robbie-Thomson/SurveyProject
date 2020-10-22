@@ -1,0 +1,393 @@
+[Fri Aug 22 14:50:06.450140 2014] [mpm_winnt:notice] [pid 5184:tid 432] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Fri Aug 22 14:50:06.881400 2014] [mpm_winnt:notice] [pid 5184:tid 432] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Fri Aug 22 14:50:06.881400 2014] [core:notice] [pid 5184:tid 432] AH00094: Command line: '\\\\netapp1\\SecondaryCurriculum\\CLYDEV~1\\COMPUT~1\\Higher\\Software\\USB\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d //netapp1/SecondaryCurriculum/Clydeview Academy/Computing/Higher/Software/USB/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Fri Aug 22 14:50:06.980921 2014] [mpm_winnt:notice] [pid 5184:tid 432] AH00418: Parent: Created child process 5236
+[Fri Aug 22 14:50:13.184422 2014] [mpm_winnt:notice] [pid 5236:tid 1616] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 22 14:53:36.468399 2014] [mpm_winnt:notice] [pid 5184:tid 432] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server shutdown initiated...
+[Fri Aug 22 14:53:38.528684 2014] [mpm_winnt:notice] [pid 5236:tid 1616] AH00364: Child: All worker threads have exited.
+[Fri Aug 22 14:53:38.576598 2014] [mpm_winnt:notice] [pid 5184:tid 432] AH00430: Parent: Child process 5236 exited successfully.
+[Thu Feb 19 10:26:39.151561 2015] [mpm_winnt:notice] [pid 1012:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Thu Feb 19 10:26:39.151561 2015] [mpm_winnt:notice] [pid 1012:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Thu Feb 19 10:26:39.152561 2015] [core:notice] [pid 1012:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Thu Feb 19 10:26:39.184561 2015] [mpm_winnt:notice] [pid 1012:tid 444] AH00418: Parent: Created child process 6232
+[Thu Feb 19 10:26:39.558561 2015] [mpm_winnt:notice] [pid 6232:tid 456] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 19 10:32:02.257675 2015] [mpm_winnt:warn] [pid 6232:tid 1112] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Feb 19 10:37:03.837830 2015] [mpm_winnt:notice] [pid 1012:tid 444] AH00424: Parent: Received restart signal -- Restarting the server.
+[Thu Feb 19 10:37:04.664912 2015] [mpm_winnt:notice] [pid 1012:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Thu Feb 19 10:37:04.664912 2015] [mpm_winnt:notice] [pid 1012:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Thu Feb 19 10:37:04.664912 2015] [core:notice] [pid 1012:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Thu Feb 19 10:37:04.679914 2015] [mpm_winnt:notice] [pid 1012:tid 444] AH00418: Parent: Created child process 2832
+[Thu Feb 19 10:37:05.228969 2015] [mpm_winnt:notice] [pid 2832:tid 452] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 19 10:37:05.840030 2015] [mpm_winnt:notice] [pid 6232:tid 456] AH00364: Child: All worker threads have exited.
+[Thu Feb 19 10:41:40.271558 2015] [mpm_winnt:notice] [pid 1012:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Feb 19 10:41:42.271558 2015] [mpm_winnt:notice] [pid 2832:tid 452] AH00364: Child: All worker threads have exited.
+[Thu Feb 19 10:41:42.299558 2015] [mpm_winnt:notice] [pid 1012:tid 444] AH00430: Parent: Child process 2832 exited successfully.
+[Mon Feb 23 10:45:28.607645 2015] [mpm_winnt:notice] [pid 3516:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Feb 23 10:45:28.607645 2015] [mpm_winnt:notice] [pid 3516:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Feb 23 10:45:28.607645 2015] [core:notice] [pid 3516:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Feb 23 10:45:28.638844 2015] [mpm_winnt:notice] [pid 3516:tid 444] AH00418: Parent: Created child process 6356
+[Mon Feb 23 10:45:29.075639 2015] [mpm_winnt:notice] [pid 6356:tid 456] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 23 10:45:42.990660 2015] [mpm_winnt:notice] [pid 3516:tid 444] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Feb 23 10:45:43.099859 2015] [mpm_winnt:notice] [pid 3516:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Feb 23 10:45:43.099859 2015] [mpm_winnt:notice] [pid 3516:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Feb 23 10:45:43.099859 2015] [core:notice] [pid 3516:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Feb 23 10:45:43.131059 2015] [mpm_winnt:notice] [pid 3516:tid 444] AH00418: Parent: Created child process 8108
+[Mon Feb 23 10:45:44.004647 2015] [mpm_winnt:notice] [pid 8108:tid 452] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 23 10:45:45.018634 2015] [mpm_winnt:notice] [pid 6356:tid 456] AH00364: Child: All worker threads have exited.
+[Mon Feb 23 10:45:58.434462 2015] [mpm_winnt:notice] [pid 3516:tid 444] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Feb 23 10:45:58.543661 2015] [mpm_winnt:notice] [pid 3516:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Feb 23 10:45:58.543661 2015] [mpm_winnt:notice] [pid 3516:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Feb 23 10:45:58.543661 2015] [core:notice] [pid 3516:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Feb 23 10:45:58.559261 2015] [mpm_winnt:notice] [pid 3516:tid 444] AH00418: Parent: Created child process 5120
+[Mon Feb 23 10:45:59.448449 2015] [mpm_winnt:notice] [pid 5120:tid 452] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 23 10:46:00.462436 2015] [mpm_winnt:notice] [pid 8108:tid 452] AH00364: Child: All worker threads have exited.
+[Mon Feb 23 11:02:07.221001 2015] [:error] [pid 5120:tid 1060] [client 127.0.0.1:51756] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\\Software for Higher\\AH\\sailing.php on line 29, referer: http://127.0.0.1/AH/
+[Mon Feb 23 11:02:22.649104 2015] [mpm_winnt:notice] [pid 3516:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 23 11:02:24.677065 2015] [mpm_winnt:notice] [pid 5120:tid 452] AH00364: Child: All worker threads have exited.
+[Mon Feb 23 11:02:24.692665 2015] [mpm_winnt:notice] [pid 3516:tid 444] AH00430: Parent: Child process 5120 exited successfully.
+[Wed Feb 25 09:35:10.835249 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Wed Feb 25 09:35:10.835249 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Wed Feb 25 09:35:10.835249 2015] [core:notice] [pid 1468:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Wed Feb 25 09:35:10.866449 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00418: Parent: Created child process 4176
+[Wed Feb 25 09:35:11.365650 2015] [mpm_winnt:notice] [pid 4176:tid 456] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 25 09:39:06.821663 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00424: Parent: Received restart signal -- Restarting the server.
+[Wed Feb 25 09:39:06.977664 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Wed Feb 25 09:39:06.977664 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Wed Feb 25 09:39:06.977664 2015] [core:notice] [pid 1468:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Wed Feb 25 09:39:07.008864 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00418: Parent: Created child process 3576
+[Wed Feb 25 09:39:07.835665 2015] [mpm_winnt:notice] [pid 3576:tid 452] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 25 09:39:08.849667 2015] [mpm_winnt:notice] [pid 4176:tid 456] AH00364: Child: All worker threads have exited.
+[Wed Feb 25 09:48:36.319977 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00424: Parent: Received restart signal -- Restarting the server.
+[Wed Feb 25 09:48:36.460377 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Wed Feb 25 09:48:36.460377 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Wed Feb 25 09:48:36.460377 2015] [core:notice] [pid 1468:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Wed Feb 25 09:48:36.491577 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00418: Parent: Created child process 6908
+[Wed Feb 25 09:48:37.333979 2015] [mpm_winnt:notice] [pid 6908:tid 452] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 25 09:48:38.347980 2015] [mpm_winnt:notice] [pid 3576:tid 452] AH00364: Child: All worker threads have exited.
+[Wed Feb 25 09:48:40.516384 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00424: Parent: Received restart signal -- Restarting the server.
+[Wed Feb 25 09:48:40.625584 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Wed Feb 25 09:48:40.625584 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Wed Feb 25 09:48:40.625584 2015] [core:notice] [pid 1468:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Wed Feb 25 09:48:40.641184 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00418: Parent: Created child process 812
+[Wed Feb 25 09:48:41.530386 2015] [mpm_winnt:notice] [pid 812:tid 456] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 25 09:48:42.544388 2015] [mpm_winnt:notice] [pid 6908:tid 452] AH00364: Child: All worker threads have exited.
+[Wed Feb 25 09:53:33.376903 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Feb 25 09:53:35.404906 2015] [mpm_winnt:notice] [pid 812:tid 456] AH00364: Child: All worker threads have exited.
+[Wed Feb 25 09:53:35.420506 2015] [mpm_winnt:notice] [pid 1468:tid 444] AH00430: Parent: Child process 812 exited successfully.
+[Mon Mar 02 11:08:21.794273 2015] [mpm_winnt:notice] [pid 7636:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Mar 02 11:08:21.794273 2015] [mpm_winnt:notice] [pid 7636:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Mar 02 11:08:21.794273 2015] [core:notice] [pid 7636:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Mar 02 11:08:21.828276 2015] [mpm_winnt:notice] [pid 7636:tid 444] AH00418: Parent: Created child process 6896
+[Mon Mar 02 11:08:22.229316 2015] [mpm_winnt:notice] [pid 6896:tid 456] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 02 11:19:10.381112 2015] [mpm_winnt:warn] [pid 6896:tid 992] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Mar 02 11:29:59.828270 2015] [mpm_winnt:notice] [pid 7636:tid 444] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Mar 02 11:30:00.744270 2015] [mpm_winnt:notice] [pid 7636:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Mar 02 11:30:00.744270 2015] [mpm_winnt:notice] [pid 7636:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Mar 02 11:30:00.744270 2015] [core:notice] [pid 7636:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Mar 02 11:30:00.800270 2015] [mpm_winnt:notice] [pid 7636:tid 444] AH00418: Parent: Created child process 7644
+[Mon Mar 02 11:30:01.385270 2015] [mpm_winnt:notice] [pid 7644:tid 452] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 02 11:30:01.828270 2015] [mpm_winnt:notice] [pid 6896:tid 456] AH00364: Child: All worker threads have exited.
+[Mon Mar 02 12:36:55.918256 2015] [mpm_winnt:notice] [pid 7636:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 02 12:36:57.919256 2015] [mpm_winnt:notice] [pid 7644:tid 452] AH00364: Child: All worker threads have exited.
+[Mon Mar 02 12:36:57.944256 2015] [mpm_winnt:notice] [pid 7636:tid 444] AH00430: Parent: Child process 7644 exited successfully.
+[Fri Mar 06 15:25:51.325745 2015] [mpm_winnt:notice] [pid 4640:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Fri Mar 06 15:25:51.333746 2015] [mpm_winnt:notice] [pid 4640:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Fri Mar 06 15:25:51.333746 2015] [core:notice] [pid 4640:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Fri Mar 06 15:25:51.372750 2015] [mpm_winnt:notice] [pid 4640:tid 444] AH00418: Parent: Created child process 3476
+[Fri Mar 06 15:25:51.798792 2015] [mpm_winnt:notice] [pid 3476:tid 456] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 06 15:39:45.656170 2015] [mpm_winnt:notice] [pid 4640:tid 444] AH00428: Parent: child process 3476 exited with status 1073807364 -- Restarting.
+[Mon Mar 09 16:08:47.117728 2015] [core:warn] [pid 4304:tid 164] AH00098: pid file C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 09 16:08:54.868171 2015] [mpm_winnt:notice] [pid 4304:tid 164] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Mar 09 16:08:54.868171 2015] [mpm_winnt:notice] [pid 4304:tid 164] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Mar 09 16:08:54.868171 2015] [core:notice] [pid 4304:tid 164] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Mar 09 16:08:54.896173 2015] [mpm_winnt:notice] [pid 4304:tid 164] AH00418: Parent: Created child process 3984
+[Mon Mar 09 16:08:55.282195 2015] [mpm_winnt:notice] [pid 3984:tid 456] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 09 16:09:23.450806 2015] [mpm_winnt:notice] [pid 4304:tid 164] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Mar 09 16:09:23.572813 2015] [mpm_winnt:notice] [pid 4304:tid 164] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Mar 09 16:09:23.572813 2015] [mpm_winnt:notice] [pid 4304:tid 164] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Mar 09 16:09:23.572813 2015] [core:notice] [pid 4304:tid 164] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Mar 09 16:09:23.594814 2015] [mpm_winnt:notice] [pid 4304:tid 164] AH00418: Parent: Created child process 2576
+[Mon Mar 09 16:09:24.451864 2015] [mpm_winnt:notice] [pid 2576:tid 452] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 09 16:09:25.451921 2015] [mpm_winnt:notice] [pid 3984:tid 456] AH00364: Child: All worker threads have exited.
+[Mon Mar 09 16:09:45.909091 2015] [mpm_winnt:notice] [pid 4304:tid 164] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Mar 09 16:09:45.996096 2015] [mpm_winnt:notice] [pid 4304:tid 164] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Mar 09 16:09:45.996096 2015] [mpm_winnt:notice] [pid 4304:tid 164] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Mar 09 16:09:45.996096 2015] [core:notice] [pid 4304:tid 164] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Mar 09 16:09:46.018097 2015] [mpm_winnt:notice] [pid 4304:tid 164] AH00418: Parent: Created child process 6644
+[Mon Mar 09 16:09:46.910148 2015] [mpm_winnt:notice] [pid 6644:tid 452] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 09 16:09:47.910205 2015] [mpm_winnt:notice] [pid 2576:tid 452] AH00364: Child: All worker threads have exited.
+[Mon Mar 09 16:30:12.735261 2015] [mpm_winnt:notice] [pid 4304:tid 164] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 09 16:30:14.735376 2015] [mpm_winnt:notice] [pid 6644:tid 452] AH00364: Child: All worker threads have exited.
+[Mon Mar 09 16:30:14.761377 2015] [mpm_winnt:notice] [pid 4304:tid 164] AH00430: Parent: Child process 6644 exited successfully.
+[Mon Mar 09 16:31:16.229893 2015] [mpm_winnt:notice] [pid 5116:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Mar 09 16:31:16.229893 2015] [mpm_winnt:notice] [pid 5116:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Mar 09 16:31:16.229893 2015] [core:notice] [pid 5116:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Mar 09 16:31:16.256894 2015] [mpm_winnt:notice] [pid 5116:tid 444] AH00418: Parent: Created child process 6284
+[Mon Mar 09 16:31:16.663918 2015] [mpm_winnt:notice] [pid 6284:tid 456] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 09 16:31:53.198007 2015] [mpm_winnt:notice] [pid 5116:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 09 16:31:55.198122 2015] [mpm_winnt:notice] [pid 6284:tid 456] AH00364: Child: All worker threads have exited.
+[Mon Mar 09 16:31:55.223123 2015] [mpm_winnt:notice] [pid 5116:tid 444] AH00430: Parent: Child process 6284 exited successfully.
+[Tue Mar 10 14:26:42.535674 2015] [mpm_winnt:notice] [pid 4780:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Tue Mar 10 14:26:42.536675 2015] [mpm_winnt:notice] [pid 4780:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Tue Mar 10 14:26:42.536675 2015] [core:notice] [pid 4780:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Tue Mar 10 14:26:42.552676 2015] [mpm_winnt:notice] [pid 4780:tid 444] AH00418: Parent: Created child process 488
+[Tue Mar 10 14:26:42.968718 2015] [mpm_winnt:notice] [pid 488:tid 456] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 10 14:39:30.568470 2015] [mpm_winnt:notice] [pid 4780:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 10 14:39:32.568670 2015] [mpm_winnt:notice] [pid 488:tid 456] AH00364: Child: All worker threads have exited.
+[Tue Mar 10 14:39:32.608674 2015] [mpm_winnt:notice] [pid 4780:tid 444] AH00430: Parent: Child process 488 exited successfully.
+[Tue Mar 10 16:56:24.093591 2015] [mpm_winnt:notice] [pid 2184:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Tue Mar 10 16:56:24.093591 2015] [mpm_winnt:notice] [pid 2184:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Tue Mar 10 16:56:24.093591 2015] [core:notice] [pid 2184:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Tue Mar 10 16:56:24.205602 2015] [mpm_winnt:notice] [pid 2184:tid 444] AH00418: Parent: Created child process 7268
+[Tue Mar 10 16:56:24.782660 2015] [mpm_winnt:notice] [pid 7268:tid 456] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 10 16:57:15.654746 2015] [mpm_winnt:notice] [pid 2184:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 10 16:57:17.654946 2015] [mpm_winnt:notice] [pid 7268:tid 456] AH00364: Child: All worker threads have exited.
+[Tue Mar 10 16:57:17.676949 2015] [mpm_winnt:notice] [pid 2184:tid 444] AH00430: Parent: Child process 7268 exited successfully.
+[Tue Mar 10 17:15:31.900949 2015] [mpm_winnt:notice] [pid 5596:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Tue Mar 10 17:15:31.900949 2015] [mpm_winnt:notice] [pid 5596:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Tue Mar 10 17:15:31.900949 2015] [core:notice] [pid 5596:tid 444] AH00094: Command line: 'C:\\SOFTWA~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d C:/Software for Higher/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Tue Mar 10 17:15:31.920947 2015] [mpm_winnt:notice] [pid 5596:tid 444] AH00418: Parent: Created child process 6704
+[Tue Mar 10 17:15:32.374902 2015] [mpm_winnt:notice] [pid 6704:tid 456] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 10 17:18:18.081329 2015] [mpm_winnt:notice] [pid 5596:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 10 17:18:20.082129 2015] [mpm_winnt:notice] [pid 6704:tid 456] AH00364: Child: All worker threads have exited.
+[Tue Mar 10 17:18:20.101127 2015] [mpm_winnt:notice] [pid 5596:tid 444] AH00430: Parent: Child process 6704 exited successfully.
+[Thu Sep 29 01:06:08.009065 2016] [mpm_winnt:notice] [pid 6920:tid 448] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Thu Sep 29 01:06:08.013066 2016] [mpm_winnt:notice] [pid 6920:tid 448] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Thu Sep 29 01:06:08.013066 2016] [core:notice] [pid 6920:tid 448] AH00094: Command line: 'F:\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d F:/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Thu Sep 29 01:06:08.060080 2016] [mpm_winnt:notice] [pid 6920:tid 448] AH00418: Parent: Created child process 7512
+[Thu Sep 29 01:06:09.805604 2016] [mpm_winnt:notice] [pid 7512:tid 460] AH00354: Child: Starting 64 worker threads.
+[Thu Sep 29 01:14:22.535522 2016] [mpm_winnt:warn] [pid 7512:tid 1104] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Oct 03 09:06:43.551328 2016] [core:warn] [pid 4600:tid 172] AH00098: pid file E:/EasyPHP-DevServer-14.1VC9/binaries/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 03 09:06:48.469993 2016] [mpm_winnt:notice] [pid 4600:tid 172] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Oct 03 09:06:48.471230 2016] [mpm_winnt:notice] [pid 4600:tid 172] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Oct 03 09:06:48.471230 2016] [core:notice] [pid 4600:tid 172] AH00094: Command line: 'E:\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d E:/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Oct 03 09:06:48.545474 2016] [mpm_winnt:notice] [pid 4600:tid 172] AH00418: Parent: Created child process 4332
+[Mon Oct 03 09:06:50.839614 2016] [mpm_winnt:notice] [pid 4332:tid 460] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 03 09:06:56.511855 2016] [mpm_winnt:notice] [pid 4600:tid 172] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Oct 03 09:06:57.613141 2016] [mpm_winnt:notice] [pid 4600:tid 172] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Oct 03 09:06:57.613141 2016] [mpm_winnt:notice] [pid 4600:tid 172] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Oct 03 09:06:57.613141 2016] [core:notice] [pid 4600:tid 172] AH00094: Command line: 'E:\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d E:/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Oct 03 09:06:57.672536 2016] [mpm_winnt:notice] [pid 4600:tid 172] AH00418: Parent: Created child process 4360
+[Mon Oct 03 09:06:58.986655 2016] [mpm_winnt:notice] [pid 4332:tid 460] AH00364: Child: All worker threads have exited.
+[Mon Oct 03 09:13:57.598438 2016] [core:warn] [pid 5532:tid 152] AH00098: pid file F:/EasyPHP-DevServer-14.1VC9/binaries/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 03 09:14:03.103544 2016] [mpm_winnt:notice] [pid 5532:tid 152] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Oct 03 09:14:03.103544 2016] [mpm_winnt:notice] [pid 5532:tid 152] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Oct 03 09:14:03.103544 2016] [core:notice] [pid 5532:tid 152] AH00094: Command line: 'F:\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d F:/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Oct 03 09:14:03.134734 2016] [mpm_winnt:notice] [pid 5532:tid 152] AH00418: Parent: Created child process 5848
+[Mon Oct 03 09:14:04.335564 2016] [mpm_winnt:notice] [pid 5848:tid 448] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 03 09:16:13.052985 2016] [mpm_winnt:warn] [pid 5848:tid 1120] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Oct 03 09:45:17.063596 2016] [mpm_winnt:notice] [pid 5532:tid 152] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 03 09:45:19.091739 2016] [mpm_winnt:notice] [pid 5848:tid 448] AH00364: Child: All worker threads have exited.
+[Mon Oct 03 09:45:20.215019 2016] [mpm_winnt:notice] [pid 5532:tid 152] AH00430: Parent: Child process 5848 exited successfully.
+[Thu Oct 06 14:31:40.731605 2016] [mpm_winnt:notice] [pid 4620:tid 436] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Thu Oct 06 14:31:40.731605 2016] [mpm_winnt:notice] [pid 4620:tid 436] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Thu Oct 06 14:31:40.731605 2016] [core:notice] [pid 4620:tid 436] AH00094: Command line: 'F:\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d F:/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Thu Oct 06 14:31:41.386146 2016] [mpm_winnt:notice] [pid 4620:tid 436] AH00418: Parent: Created child process 4808
+[Thu Oct 06 14:31:42.601721 2016] [mpm_winnt:notice] [pid 4808:tid 448] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 06 14:35:35.259736 2016] [mpm_winnt:warn] [pid 4808:tid 1256] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Oct 06 14:53:01.470678 2016] [mpm_winnt:notice] [pid 4620:tid 436] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 06 14:53:03.498691 2016] [mpm_winnt:notice] [pid 4808:tid 448] AH00364: Child: All worker threads have exited.
+[Thu Oct 06 14:53:04.887100 2016] [mpm_winnt:notice] [pid 4620:tid 436] AH00430: Parent: Child process 4808 exited successfully.
+[Thu Nov 10 14:28:01.508305 2016] [mpm_winnt:notice] [pid 4532:tid 436] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Thu Nov 10 14:28:01.508305 2016] [mpm_winnt:notice] [pid 4532:tid 436] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Thu Nov 10 14:28:01.508305 2016] [core:notice] [pid 4532:tid 436] AH00094: Command line: 'F:\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d F:/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Thu Nov 10 14:28:02.007518 2016] [mpm_winnt:notice] [pid 4532:tid 436] AH00418: Parent: Created child process 5428
+[Thu Nov 10 14:28:02.990343 2016] [mpm_winnt:notice] [pid 5428:tid 448] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 10 14:53:37.246237 2016] [mpm_winnt:notice] [pid 4532:tid 436] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Nov 10 14:53:39.274380 2016] [mpm_winnt:notice] [pid 5428:tid 448] AH00364: Child: All worker threads have exited.
+[Thu Nov 10 14:53:41.536540 2016] [mpm_winnt:notice] [pid 4532:tid 436] AH00430: Parent: Child process 5428 exited successfully.
+[Mon Nov 14 09:08:44.565456 2016] [mpm_winnt:notice] [pid 7180:tid 452] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Nov 14 09:08:44.808348 2016] [mpm_winnt:notice] [pid 7180:tid 452] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Nov 14 09:08:44.808348 2016] [core:notice] [pid 7180:tid 452] AH00094: Command line: 'E:\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d E:/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Nov 14 09:08:45.122038 2016] [mpm_winnt:notice] [pid 7180:tid 452] AH00418: Parent: Created child process 7860
+[Mon Nov 14 09:08:46.984570 2016] [mpm_winnt:notice] [pid 7860:tid 460] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 14 09:37:12.119137 2016] [mpm_winnt:warn] [pid 7860:tid 1220] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Nov 14 09:37:12.119137 2016] [mpm_winnt:warn] [pid 7860:tid 1220] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Nov 14 09:37:12.119137 2016] [mpm_winnt:warn] [pid 7860:tid 1220] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Nov 14 09:37:12.119137 2016] [mpm_winnt:warn] [pid 7860:tid 1220] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Nov 14 09:37:12.119137 2016] [mpm_winnt:warn] [pid 7860:tid 1220] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Nov 14 09:37:15.138042 2016] [mpm_winnt:notice] [pid 7180:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 14 09:37:17.139642 2016] [mpm_winnt:notice] [pid 7860:tid 460] AH00364: Child: All worker threads have exited.
+[Mon Nov 14 09:45:34.299456 2016] [mpm_winnt:notice] [pid 1024:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Nov 14 09:45:34.315056 2016] [mpm_winnt:notice] [pid 1024:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Nov 14 09:45:34.315056 2016] [core:notice] [pid 1024:tid 444] AH00094: Command line: 'F:\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d F:/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Nov 14 09:45:34.346256 2016] [mpm_winnt:notice] [pid 1024:tid 444] AH00418: Parent: Created child process 3808
+[Mon Nov 14 09:45:35.531840 2016] [mpm_winnt:notice] [pid 3808:tid 456] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 14 09:47:21.386884 2016] [mpm_winnt:notice] [pid 1024:tid 444] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Nov 14 09:47:21.901678 2016] [mpm_winnt:notice] [pid 1024:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Mon Nov 14 09:47:21.901678 2016] [mpm_winnt:notice] [pid 1024:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Nov 14 09:47:21.901678 2016] [core:notice] [pid 1024:tid 444] AH00094: Command line: 'F:\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d F:/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Mon Nov 14 09:47:21.932877 2016] [mpm_winnt:notice] [pid 1024:tid 444] AH00418: Parent: Created child process 2848
+[Mon Nov 14 09:47:22.868865 2016] [mpm_winnt:notice] [pid 2848:tid 452] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 14 09:47:23.742454 2016] [mpm_winnt:notice] [pid 3808:tid 456] AH00364: Child: All worker threads have exited.
+[Mon Nov 14 09:49:03.549578 2016] [mpm_winnt:notice] [pid 1024:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 14 09:49:06.029947 2016] [mpm_winnt:notice] [pid 2848:tid 452] AH00364: Child: All worker threads have exited.
+[Mon Nov 14 09:49:06.638339 2016] [mpm_winnt:notice] [pid 1024:tid 444] AH00430: Parent: Child process 2848 exited successfully.
+[Tue Nov 15 12:46:44.307185 2016] [mpm_winnt:notice] [pid 1132:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Tue Nov 15 12:46:44.307185 2016] [mpm_winnt:notice] [pid 1132:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Tue Nov 15 12:46:44.307185 2016] [core:notice] [pid 1132:tid 444] AH00094: Command line: 'F:\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d F:/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Tue Nov 15 12:46:44.341056 2016] [mpm_winnt:notice] [pid 1132:tid 444] AH00418: Parent: Created child process 4380
+[Tue Nov 15 12:46:45.811447 2016] [mpm_winnt:notice] [pid 4380:tid 456] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 15 13:15:47.915900 2016] [mpm_winnt:notice] [pid 1132:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 15 13:15:52.888700 2016] [mpm_winnt:notice] [pid 4380:tid 456] AH00364: Child: All worker threads have exited.
+[Tue Nov 15 13:15:53.668700 2016] [mpm_winnt:notice] [pid 1132:tid 444] AH00430: Parent: Child process 4380 exited successfully.
+[Tue Nov 15 14:02:00.752901 2016] [mpm_winnt:notice] [pid 2832:tid 444] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Tue Nov 15 14:02:00.752901 2016] [mpm_winnt:notice] [pid 2832:tid 444] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Tue Nov 15 14:02:00.752901 2016] [core:notice] [pid 2832:tid 444] AH00094: Command line: 'F:\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d F:/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Tue Nov 15 14:02:00.787922 2016] [mpm_winnt:notice] [pid 2832:tid 444] AH00418: Parent: Created child process 5276
+[Tue Nov 15 14:02:02.158744 2016] [mpm_winnt:notice] [pid 5276:tid 456] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 15 14:02:16.656437 2016] [:error] [pid 5276:tid 904] [client 127.0.0.1:51810] PHP Notice:  Undefined index: AnimalName in F:\\WildScotTrust\\animalSearch.php on line 33, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:02:16.658439 2016] [:error] [pid 5276:tid 904] [client 127.0.0.1:51810] PHP Notice:  Undefined index: AnimalCategory in F:\\WildScotTrust\\animalSearch.php on line 34, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:12:11.943887 2016] [:error] [pid 5276:tid 904] [client 127.0.0.1:57226] PHP Notice:  Undefined index: AnimalName in F:\\WildScotTrust\\animalSearch.php on line 33, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:12:11.943887 2016] [:error] [pid 5276:tid 904] [client 127.0.0.1:57226] PHP Notice:  Undefined index: AnimalCategory in F:\\WildScotTrust\\animalSearch.php on line 34, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:36:30.578033 2016] [:error] [pid 5276:tid 904] [client 127.0.0.1:57777] PHP Notice:  Undefined index: AnimalName in F:\\WildScotTrust\\animalSearch.php on line 33, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:36:30.578033 2016] [:error] [pid 5276:tid 904] [client 127.0.0.1:57777] PHP Notice:  Undefined index: AnimalCategory in F:\\WildScotTrust\\animalSearch.php on line 34, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:37:35.880052 2016] [:error] [pid 5276:tid 960] [client 127.0.0.1:57802] PHP Notice:  Undefined index: AnimalName in F:\\WildScotTrust\\animalSearch.php on line 33, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:37:35.880052 2016] [:error] [pid 5276:tid 960] [client 127.0.0.1:57802] PHP Notice:  Undefined index: AnimalCategory in F:\\WildScotTrust\\animalSearch.php on line 34, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:38:05.631144 2016] [:error] [pid 5276:tid 920] [client 127.0.0.1:57847] PHP Notice:  Undefined index: AnimalName in F:\\WildScotTrust\\animalSearch.php on line 33, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:38:05.631144 2016] [:error] [pid 5276:tid 920] [client 127.0.0.1:57847] PHP Notice:  Undefined index: AnimalCategory in F:\\WildScotTrust\\animalSearch.php on line 34, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:39:27.860571 2016] [:error] [pid 5276:tid 920] [client 127.0.0.1:57880] PHP Notice:  Undefined index: Name in F:\\WildScotTrust\\animalSearch.php on line 33, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:39:27.860571 2016] [:error] [pid 5276:tid 920] [client 127.0.0.1:57880] PHP Notice:  Undefined index: Category in F:\\WildScotTrust\\animalSearch.php on line 34, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:39:35.504598 2016] [:error] [pid 5276:tid 920] [client 127.0.0.1:57885] PHP Notice:  Undefined index: Name in F:\\WildScotTrust\\animalSearch.php on line 33, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:39:35.504598 2016] [:error] [pid 5276:tid 920] [client 127.0.0.1:57885] PHP Notice:  Undefined index: Category in F:\\WildScotTrust\\animalSearch.php on line 34, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:40:07.479598 2016] [:error] [pid 5276:tid 920] [client 127.0.0.1:57897] PHP Notice:  Undefined index: AnimalName in F:\\WildScotTrust\\animalSearch.php on line 33, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:40:07.479598 2016] [:error] [pid 5276:tid 920] [client 127.0.0.1:57897] PHP Notice:  Undefined index: Category in F:\\WildScotTrust\\animalSearch.php on line 34, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Animal ID in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Best Place To See in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Animal ID in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Best Place To See in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Animal ID in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Best Place To See in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Animal ID in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Best Place To See in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Animal ID in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Best Place To See in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Animal ID in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Best Place To See in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Animal ID in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Best Place To See in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Animal ID in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 14:56:30.603628 2016] [:error] [pid 5276:tid 928] [client 127.0.0.1:58162] PHP Notice:  Undefined index: Best Place To See in F:\\WildScotTrust\\animalSearch.php on line 62, referer: http://127.0.0.1/Wild%20Scot%20Trust/homePage.html
+[Tue Nov 15 15:46:28.603699 2016] [mpm_winnt:notice] [pid 2832:tid 444] AH00428: Parent: child process 5276 exited with status 1073807364 -- Restarting.
+[Wed Nov 23 10:06:55.616748 2016] [core:warn] [pid 11596:tid 712] AH00098: pid file D:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 23 10:06:57.873237 2016] [mpm_winnt:notice] [pid 11596:tid 712] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Wed Nov 23 10:06:57.873237 2016] [mpm_winnt:notice] [pid 11596:tid 712] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Wed Nov 23 10:06:57.873237 2016] [core:notice] [pid 11596:tid 712] AH00094: Command line: 'D:\\PROJEC~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d D:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Wed Nov 23 10:06:57.888863 2016] [mpm_winnt:notice] [pid 11596:tid 712] AH00418: Parent: Created child process 9796
+[Wed Nov 23 10:06:58.758449 2016] [mpm_winnt:notice] [pid 9796:tid 840] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 23 10:08:20.549973 2016] [mpm_winnt:notice] [pid 11596:tid 712] AH00424: Parent: Received restart signal -- Restarting the server.
+[Wed Nov 23 10:08:20.957199 2016] [mpm_winnt:notice] [pid 11596:tid 712] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Wed Nov 23 10:08:20.957199 2016] [mpm_winnt:notice] [pid 11596:tid 712] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Wed Nov 23 10:08:20.957199 2016] [core:notice] [pid 11596:tid 712] AH00094: Command line: 'D:\\PROJEC~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d D:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Wed Nov 23 10:08:20.972826 2016] [mpm_winnt:notice] [pid 11596:tid 712] AH00418: Parent: Created child process 3964
+[Wed Nov 23 10:08:22.552349 2016] [mpm_winnt:notice] [pid 9796:tid 840] AH00364: Child: All worker threads have exited.
+[Wed Nov 23 10:08:23.575091 2016] [mpm_winnt:notice] [pid 3964:tid 804] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 23 10:10:38.179030 2016] [mpm_winnt:warn] [pid 3964:tid 1404] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Nov 23 10:10:38.179030 2016] [mpm_winnt:warn] [pid 3964:tid 1404] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Nov 23 10:35:37.497631 2016] [mpm_winnt:notice] [pid 11596:tid 712] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 23 10:35:39.531133 2016] [mpm_winnt:notice] [pid 3964:tid 804] AH00364: Child: All worker threads have exited.
+[Wed Nov 23 10:35:41.632429 2016] [mpm_winnt:notice] [pid 11596:tid 712] AH00430: Parent: Child process 3964 exited successfully.
+[Wed Nov 23 13:34:46.647751 2016] [mpm_winnt:notice] [pid 1016:tid 780] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Wed Nov 23 13:34:46.647751 2016] [mpm_winnt:notice] [pid 1016:tid 780] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Wed Nov 23 13:34:46.647751 2016] [core:notice] [pid 1016:tid 780] AH00094: Command line: 'D:\\PROJEC~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d D:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Wed Nov 23 13:34:46.678969 2016] [mpm_winnt:notice] [pid 1016:tid 780] AH00418: Parent: Created child process 3784
+[Wed Nov 23 13:34:48.366231 2016] [mpm_winnt:notice] [pid 3784:tid 812] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 23 13:35:21.315091 2016] [mpm_winnt:notice] [pid 1016:tid 780] AH00424: Parent: Received restart signal -- Restarting the server.
+[Wed Nov 23 13:35:23.333262 2016] [mpm_winnt:notice] [pid 3784:tid 812] AH00364: Child: All worker threads have exited.
+[Wed Nov 23 13:35:24.286181 2016] [mpm_winnt:notice] [pid 1016:tid 780] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Wed Nov 23 13:35:24.286181 2016] [mpm_winnt:notice] [pid 1016:tid 780] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Wed Nov 23 13:35:24.286181 2016] [core:notice] [pid 1016:tid 780] AH00094: Command line: 'D:\\PROJEC~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d D:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Wed Nov 23 13:35:24.287182 2016] [mpm_winnt:notice] [pid 1016:tid 780] AH00418: Parent: Created child process 6872
+[Wed Nov 23 13:35:25.150870 2016] [mpm_winnt:notice] [pid 6872:tid 812] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 23 14:40:55.662527 2016] [mpm_winnt:notice] [pid 1016:tid 780] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 23 14:40:57.682299 2016] [mpm_winnt:notice] [pid 6872:tid 812] AH00364: Child: All worker threads have exited.
+[Wed Nov 23 14:40:58.468458 2016] [mpm_winnt:notice] [pid 1016:tid 780] AH00430: Parent: Child process 6872 exited successfully.
+[Fri Nov 25 10:01:09.899247 2016] [mpm_winnt:notice] [pid 5628:tid 864] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Fri Nov 25 10:01:09.899247 2016] [mpm_winnt:notice] [pid 5628:tid 864] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Fri Nov 25 10:01:09.899247 2016] [core:notice] [pid 5628:tid 864] AH00094: Command line: 'E:\\PROJEC~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Fri Nov 25 10:01:09.914743 2016] [mpm_winnt:notice] [pid 5628:tid 864] AH00418: Parent: Created child process 4856
+[Fri Nov 25 10:01:11.487797 2016] [mpm_winnt:notice] [pid 4856:tid 800] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 29 14:13:03.783252 2016] [core:warn] [pid 4620:tid 160] AH00098: pid file E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 29 14:13:16.211979 2016] [mpm_winnt:notice] [pid 4620:tid 160] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Tue Nov 29 14:13:16.211979 2016] [mpm_winnt:notice] [pid 4620:tid 160] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Tue Nov 29 14:13:16.211979 2016] [core:notice] [pid 4620:tid 160] AH00094: Command line: 'E:\\PROJEC~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Tue Nov 29 14:13:16.271997 2016] [mpm_winnt:notice] [pid 4620:tid 160] AH00418: Parent: Created child process 4284
+[Tue Nov 29 14:13:19.028824 2016] [mpm_winnt:notice] [pid 4284:tid 456] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 30 17:20:56.888958 2016] [core:warn] [pid 5876:tid 724] AH00098: pid file E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 30 17:21:10.783994 2016] [mpm_winnt:notice] [pid 5876:tid 724] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Wed Nov 30 17:21:10.783994 2016] [mpm_winnt:notice] [pid 5876:tid 724] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Wed Nov 30 17:21:10.783994 2016] [core:notice] [pid 5876:tid 724] AH00094: Command line: 'E:\\PROJEC~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Wed Nov 30 17:21:10.806206 2016] [mpm_winnt:notice] [pid 5876:tid 724] AH00418: Parent: Created child process 9772
+[Wed Nov 30 17:21:12.385781 2016] [mpm_winnt:notice] [pid 9772:tid 792] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 30 17:35:19.438284 2016] [mpm_winnt:warn] [pid 9772:tid 1732] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Nov 30 17:35:19.438284 2016] [mpm_winnt:warn] [pid 9772:tid 1732] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Nov 30 17:35:19.438284 2016] [mpm_winnt:warn] [pid 9772:tid 1732] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Nov 30 17:35:19.438284 2016] [mpm_winnt:warn] [pid 9772:tid 1732] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Nov 30 17:35:19.438284 2016] [mpm_winnt:warn] [pid 9772:tid 1732] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Nov 30 17:35:19.453911 2016] [mpm_winnt:warn] [pid 9772:tid 1732] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Nov 30 17:35:19.453911 2016] [mpm_winnt:warn] [pid 9772:tid 1732] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Nov 30 17:35:26.750678 2016] [mpm_winnt:notice] [pid 5876:tid 724] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 30 17:35:28.770714 2016] [mpm_winnt:notice] [pid 9772:tid 792] AH00364: Child: All worker threads have exited.
+[Wed Nov 30 17:35:31.144718 2016] [mpm_winnt:notice] [pid 5876:tid 724] AH00430: Parent: Child process 9772 exited successfully.
+[Thu Dec 01 11:50:30.583636 2016] [mpm_winnt:notice] [pid 10080:tid 836] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Thu Dec 01 11:50:30.583636 2016] [mpm_winnt:notice] [pid 10080:tid 836] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Thu Dec 01 11:50:30.583636 2016] [core:notice] [pid 10080:tid 836] AH00094: Command line: 'E:\\PROJEC~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Thu Dec 01 11:50:30.614896 2016] [mpm_winnt:notice] [pid 10080:tid 836] AH00418: Parent: Created child process 8956
+[Thu Dec 01 11:50:33.037257 2016] [mpm_winnt:notice] [pid 8956:tid 852] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 01 11:53:41.996185 2016] [mpm_winnt:warn] [pid 8956:tid 1536] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Dec 01 11:53:41.996185 2016] [mpm_winnt:warn] [pid 8956:tid 1536] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Dec 01 11:53:41.996185 2016] [mpm_winnt:warn] [pid 8956:tid 1536] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Dec 01 11:53:41.996185 2016] [mpm_winnt:warn] [pid 8956:tid 1536] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Dec 01 11:55:21.189529 2016] [mpm_winnt:warn] [pid 8956:tid 1536] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Dec 01 12:20:40.462286 2016] [mpm_winnt:notice] [pid 10080:tid 836] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 01 12:20:42.503587 2016] [mpm_winnt:notice] [pid 8956:tid 852] AH00364: Child: All worker threads have exited.
+[Thu Dec 01 12:20:45.807627 2016] [mpm_winnt:notice] [pid 10080:tid 836] AH00430: Parent: Child process 8956 exited successfully.
+[Fri Dec 02 09:09:28.250238 2016] [mpm_winnt:notice] [pid 10440:tid 692] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Fri Dec 02 09:09:28.250238 2016] [mpm_winnt:notice] [pid 10440:tid 692] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Fri Dec 02 09:09:28.250238 2016] [core:notice] [pid 10440:tid 692] AH00094: Command line: 'E:\\PROJEC~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Fri Dec 02 09:09:28.281753 2016] [mpm_winnt:notice] [pid 10440:tid 692] AH00418: Parent: Created child process 9600
+[Fri Dec 02 09:09:30.601672 2016] [mpm_winnt:notice] [pid 9600:tid 888] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 02 11:36:38.103563 2016] [core:warn] [pid 7128:tid 172] AH00098: pid file E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 02 11:36:40.919015 2016] [mpm_winnt:notice] [pid 7128:tid 172] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Fri Dec 02 11:36:40.919015 2016] [mpm_winnt:notice] [pid 7128:tid 172] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Fri Dec 02 11:36:40.919015 2016] [core:notice] [pid 7128:tid 172] AH00094: Command line: 'E:\\PROJEC~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Fri Dec 02 11:36:40.950298 2016] [mpm_winnt:notice] [pid 7128:tid 172] AH00418: Parent: Created child process 5964
+[Fri Dec 02 11:36:44.125502 2016] [mpm_winnt:notice] [pid 5964:tid 460] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 02 11:39:35.445267 2016] [mpm_winnt:notice] [pid 7128:tid 172] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 02 11:39:37.478649 2016] [mpm_winnt:notice] [pid 5964:tid 460] AH00364: Child: All worker threads have exited.
+[Fri Dec 02 11:39:40.763343 2016] [mpm_winnt:notice] [pid 7128:tid 172] AH00430: Parent: Child process 5964 exited successfully.
+[Tue Dec 06 10:59:40.079568 2016] [mpm_winnt:notice] [pid 10776:tid 800] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Tue Dec 06 10:59:40.095013 2016] [mpm_winnt:notice] [pid 10776:tid 800] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Tue Dec 06 10:59:40.095013 2016] [core:notice] [pid 10776:tid 800] AH00094: Command line: 'E:\\PROJEC~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Tue Dec 06 10:59:40.095013 2016] [mpm_winnt:notice] [pid 10776:tid 800] AH00418: Parent: Created child process 8560
+[Tue Dec 06 10:59:43.579758 2016] [mpm_winnt:notice] [pid 8560:tid 824] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 06 11:09:40.679580 2016] [mpm_winnt:warn] [pid 8560:tid 1588] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Dec 06 11:29:33.362793 2016] [core:warn] [pid 5556:tid 232] AH00098: pid file E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 06 11:29:48.780039 2016] [mpm_winnt:notice] [pid 5556:tid 232] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Tue Dec 06 11:29:48.780039 2016] [mpm_winnt:notice] [pid 5556:tid 232] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Tue Dec 06 11:29:48.780039 2016] [core:notice] [pid 5556:tid 232] AH00094: Command line: 'E:\\PROJEC~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Tue Dec 06 11:29:48.811295 2016] [mpm_winnt:notice] [pid 5556:tid 232] AH00418: Parent: Created child process 5344
+[Tue Dec 06 11:29:51.077560 2016] [mpm_winnt:notice] [pid 5344:tid 820] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 07 14:14:40.590990 2016] [core:warn] [pid 8484:tid 552] AH00098: pid file E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 07 14:14:52.482880 2016] [mpm_winnt:notice] [pid 8484:tid 552] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Wed Dec 07 14:14:52.482880 2016] [mpm_winnt:notice] [pid 8484:tid 552] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Wed Dec 07 14:14:52.482880 2016] [core:notice] [pid 8484:tid 552] AH00094: Command line: 'E:\\PROJEC~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Wed Dec 07 14:14:52.498507 2016] [mpm_winnt:notice] [pid 8484:tid 552] AH00418: Parent: Created child process 4968
+[Wed Dec 07 14:14:59.936955 2016] [mpm_winnt:notice] [pid 4968:tid 812] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 07 14:24:54.704178 2016] [mpm_winnt:warn] [pid 4968:tid 1336] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Dec 07 14:24:54.704178 2016] [mpm_winnt:warn] [pid 4968:tid 1336] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Dec 07 14:24:54.704178 2016] [mpm_winnt:warn] [pid 4968:tid 1336] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Dec 07 14:24:54.704178 2016] [mpm_winnt:warn] [pid 4968:tid 1336] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Dec 07 14:24:54.704178 2016] [mpm_winnt:warn] [pid 4968:tid 1336] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Dec 07 14:24:54.719807 2016] [mpm_winnt:warn] [pid 4968:tid 1336] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Dec 08 11:53:39.184321 2016] [core:warn] [pid 1916:tid 644] AH00098: pid file E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 08 11:53:52.373200 2016] [mpm_winnt:notice] [pid 1916:tid 644] AH00455: Apache/2.4.7 (Win32) PHP/5.4.24 configured -- resuming normal operations
+[Thu Dec 08 11:53:52.373200 2016] [mpm_winnt:notice] [pid 1916:tid 644] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Thu Dec 08 11:53:52.373200 2016] [core:notice] [pid 1916:tid 644] AH00094: Command line: 'E:\\PROJEC~1\\EASYPH~1.1VC\\binaries\\apache\\bin\\eds-httpd.exe -d E:/Project Site/EasyPHP-DevServer-14.1VC9/binaries/apache'
+[Thu Dec 08 11:53:52.388826 2016] [mpm_winnt:notice] [pid 1916:tid 644] AH00418: Parent: Created child process 13492
+[Thu Dec 08 11:53:54.545461 2016] [mpm_winnt:notice] [pid 13492:tid 804] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 08 11:56:15.989525 2016] [mpm_winnt:warn] [pid 13492:tid 1892] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Dec 08 11:56:15.989525 2016] [mpm_winnt:warn] [pid 13492:tid 1892] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Dec 08 11:56:15.989525 2016] [mpm_winnt:warn] [pid 13492:tid 1892] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Dec 08 11:56:15.989525 2016] [mpm_winnt:warn] [pid 13492:tid 1892] (OS 64)The specified network name is no longer available.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
